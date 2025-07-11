@@ -24,4 +24,4 @@ All management and sensitive data will be secured using Azure AD, Key Vault, and
 
 
 
-![Lab1.1](./lab_1.1.jpg)
+![Lab1.1](./lab1.1.png)
