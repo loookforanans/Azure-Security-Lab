@@ -21,3 +21,7 @@ Traffic Flow:
 Internet -> Azure Application Gateway (WAF) -> Azure App Service (WordPress) -> Private VNet Communication -> Azure Database for MySQL (Private Endpoint)
 
 All management and sensitive data will be secured using Azure AD, Key Vault, and continuous monitoring.
+
+
+
+![Lab1.1](./lab_1.1.jpg)
